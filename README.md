@@ -3,7 +3,7 @@
 Доповнення розкладки [Ukrainian Unicode](https://r2u.org.ua/wiki/keyboard/UkrainianUnicode) символами,
 які знадобилися нам у нашій діяльності, призначене для використання з xkb (X KeyBoard extension).
 Докладніше про спосіб доповнень розкладки можна прочитати у статті
-[Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom keyboard layout definitions),
+[Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions),
 тут ми просто пропонуємо у готовому вигляді наші власні зміни.
 
 ## Внесені зміни
